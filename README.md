@@ -1,4 +1,5 @@
-# Systolic Matrix Multiply Engine
+# Simple Matrix Multiplication Accelerator in SystemVerilog
+
 
 An attempt to make a lightweight, FPGA-compatible systolic array-based matrix multiply engine inspired by Googles TPUs(Tensor Processing Units)— a simple project to get a better understanding of how TPUs actually do what they do.
 
